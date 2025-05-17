@@ -9,7 +9,7 @@
 - Load and delete existing e‑chests on demand  
 
 ## 🚀 Installation
-1. Download the latest `echest-plugin.jar`.  
+1. Download the latest `Echest-1.0.jar` from the [Releases](https://github.com/infenoid/echest-plugin/releases).  
 2. Drop it into your server’s `/plugins` folder.  
 3. Restart or reload the server (`/reload`).
 
@@ -38,11 +38,3 @@ UPI - satwikg@fam
 | `echest.use`              | Use `/echest load`            | `op`    |
 | `echest.create`           | Run `/echest create`          | `op`    |
 | `echest.delete`           | Run `/echest delete`          | `op`    |
-
-## 🛠️ Configuration
-After first run, edit `plugins/EChest/config.yml`:
-```yaml
-# max allowed chest size (must be multiple of 9)
-max-size: 54
-# default chest size when omitted
-default-size: 27
