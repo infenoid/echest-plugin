@@ -29,6 +29,9 @@ Open an existing e‑chest
 
 Remove an existing e‑chest
 
+## 🤝 Donate
+UPI - satwikg@fam
+
 ## 🔒 Permissions
 | Permission                | Description                   | Default |
 |---------------------------|-------------------------------|:-------:|
