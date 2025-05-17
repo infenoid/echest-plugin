@@ -1,0 +1,11 @@
+name: Echest
+version: '1.0'
+main: org.example.test.Echest
+api-version: '1.21'
+owner: xeeClown
+description: Echest plugin
+commands:
+  echest:
+    description: Open Echest
+    usage: /echest
+    permission: echest.use
